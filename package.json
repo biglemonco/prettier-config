@@ -1,0 +1,9 @@
+{
+    "name": "@biglemonco/prettier-config",
+    "version": "1.0.0",
+    "description": "Big Lemon Prettier config",
+    "main": "index.json",
+    "repository": "git@github.com:biglemonco/prettier-config.git",
+    "author": "Big Lemon",
+    "license": "MIT"
+  }
